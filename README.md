@@ -1,1 +1,1 @@
-# interfaceGraficaAutoma-o
+# interfaceGraficaAutomacao
